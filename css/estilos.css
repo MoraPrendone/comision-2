@@ -1,0 +1,28 @@
+body{
+    background-color: #f4f4f4;
+    color: #333
+}
+h1, h2, h3{
+    text-align: center;
+}
+h1{
+    text-transform: uppercase;
+    color: #0f5ce1
+}
+h2{
+    text-transform: capitalize;
+    color:#9f0b26
+}
+h3{text-transform: lowercase;
+color:#c30d56
+}
+a{
+    color:#c30d56;
+    text-decoration: none;
+}
+img{
+    width: 50%;
+    border-radius: 15px;
+    display: block;
+    margin: 10px auto;
+}
